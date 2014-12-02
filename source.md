@@ -25,7 +25,7 @@ Slide:
 
 #Apps Moviles
 
-<img height="200" width="1400" src="_images/moviles.jpg">
+<img height="200" width="1400" src="fig/moviles.jpg">
 
 ### [Fuente: Flurry from Yahoo! 2013](http://www.flurry.com/bid/94352/China-Knocks-Off-U-S-to-Become-World-s-Top-Smart-Device-Market#.VEk7OfmG87E)
 
@@ -34,7 +34,7 @@ Slide:
 
 #Google Maps
 
-<img height="200" width="1400" src="_images/googlemaps.jpg">
+<img height="200" width="1400" src="fig/googlemaps.jpg">
 
 Slide:
 
@@ -48,16 +48,16 @@ Slide:
 
 ##Api Android Google Maps
 
-<img height="600" width="500" src="_images/api.jpg">
+<img height="600" width="500" src="fig/api.jpg">
 
 Slide:
 
 ##Proyecto 1 VilladeLeyvapp
-<img height="600" width="500" src="_images/villa.jpg">
+<img height="600" width="500" src="fig/villa.jpg">
 
 Slide:
 ##Proyecto 2 Bogota
-<img height="600" width="500" src="_images/bogota.jpg">
+<img height="600" width="500" src="fig/bogota.jpg">
 
 Slide:
 ##Monetizar SL
@@ -69,7 +69,7 @@ Slide:
 Slide:
 #GITHUB
 
-<img height="600" width="500" src="_images/github.jpg">
+<img height="600" width="500" src="fig/github.jpg">
 
 
 Slide:
